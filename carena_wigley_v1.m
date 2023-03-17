@@ -1,7 +1,7 @@
 % This script takes as input the next values of an artificial Wigley hull
 % and processes them into a .csv file in order to implement it in
 % Rhinoceros. Made as an academic practice excercise.
-%
+% The origin of the coordinate system chosen is top-amidships.
 % pieq3, 17/03/2023
 % v1
 
